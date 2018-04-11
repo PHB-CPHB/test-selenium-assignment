@@ -12,7 +12,7 @@ This is a school assignment with the intenstion of "Demonstrate how to use Selen
   - Open a terminal and navigate into the root of the project, and type mvn install
   - Open intellij
   - Import the maven project
-  - Change the "System.setProperty" to the directory of you selenium driver (Installtion guide to Selenium can be found [here](https://www.seleniumhq.org/download/) 
+  - Change the "System.setProperty" to the directory of you selenium driver (Installtion guide to Selenium can be found [here](https://www.seleniumhq.org/download/))
   - Run the tests
   
 ## Question to the assignment
